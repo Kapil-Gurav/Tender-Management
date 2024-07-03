@@ -72,3 +72,35 @@
   - See the bid approval or denial status.
 - After the tender status approval, they can view and submit documentation.
 - Vendors can look for important notices on the notice section.
+
+  ## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Contact
+
+For any questions or suggestions, please open an issue in the repository or contact [kapil.gurav11@gmail.com](mailto:kapil.gurav11@gmail.com).
+
+## Preview
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/d3075cc9-86ad-4f83-aa8a-e90bbd99fa29)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/54a98bd2-67bb-4337-a35e-12287914d601)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/9ba00d53-37fd-40ff-809e-14fb69543712)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/b9f2bf83-0e52-496c-a794-55b367348904)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/5ebe5392-e101-4984-8dc0-947f1f5e1349)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/8d45f471-0011-485a-973c-ebfd164f03d7)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/d262876c-684b-4b00-abe7-56af8703e520)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/1aaa6e9c-1472-4387-9e70-d4bd900d81d1)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/4e3c1e0c-a318-4c9a-ac8c-ca7b69d3539a)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/5f322744-ac63-479d-803a-88785cae2ccc)
+
+![image](https://github.com/Kapil-Gurav/Tender-Management/assets/160912998/d2594a88-3969-4308-a258-ff0bea0b9dc4)
