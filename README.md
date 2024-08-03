@@ -1,4 +1,4 @@
-# Tender Management System
+# Bid Master
 
 ## Abstract
 - Project developed to enable vendors to get all tender details online and provide the facility to submit the tender.
